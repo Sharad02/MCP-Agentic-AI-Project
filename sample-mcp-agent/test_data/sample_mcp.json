@@ -1,0 +1,12 @@
+{
+  "user": "Sharad",
+  "assets": {
+    "bank": 60000,
+    "stocks": 80000,
+    "crypto": 10000
+  },
+  "liabilities": {
+    "loan": 40000
+  },
+  "credit_score": 750
+}
